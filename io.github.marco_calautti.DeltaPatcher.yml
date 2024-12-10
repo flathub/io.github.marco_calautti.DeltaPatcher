@@ -1,6 +1,6 @@
 id: io.github.marco_calautti.DeltaPatcher
 runtime: org.freedesktop.Platform
-runtime-version: '23.08'
+runtime-version: '24.08'
 sdk: org.freedesktop.Sdk
 command: DeltaPatcher
 finish-args:
@@ -19,7 +19,7 @@ modules:
     sources:
       - type: git
         url: https://github.com/marco-calautti/DeltaPatcher.git
-        tag: "v3.1.5"
-        commit: "f62345ea743f64852a701b5cebb1d78977a4a65c"
+        # tag: "v3.1.5"
+        commit: "03a6602e9f972543a18beb2f36cc2f28fa4488c4"
         x-checker-data:
             type: git
