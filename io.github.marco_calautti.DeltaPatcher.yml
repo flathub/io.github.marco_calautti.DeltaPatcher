@@ -23,4 +23,3 @@ modules:
         commit: 03a6602e9f972543a18beb2f36cc2f28fa4488c4
         x-checker-data:
           type: git
-        tag: v3.1.5-build-fix
